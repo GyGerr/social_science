@@ -1,0 +1,27 @@
+body {
+	background-image: url(bb.jpg);
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+dt {	
+	font-size: 20px;
+	font-family: Arial;
+	padding-bottom: 10px;
+}
+
+dd {
+	font-size: 20px;
+	color: blue;
+	padding-bottom: 5px;
+}
+
+.kk {
+	width: 470px;
+	padding-bottom: 20px;
+}
